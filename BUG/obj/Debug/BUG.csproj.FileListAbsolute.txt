@@ -1,0 +1,9 @@
+D:\Space_HomeWork\BUG\BUG\bin\Debug\BUG.exe.config
+D:\Space_HomeWork\BUG\BUG\bin\Debug\BUG.exe
+D:\Space_HomeWork\BUG\BUG\bin\Debug\BUG.pdb
+D:\Space_HomeWork\BUG\BUG\obj\Debug\BUG.csprojResolveAssemblyReference.cache
+D:\Space_HomeWork\BUG\BUG\obj\Debug\BUG.Form1.resources
+D:\Space_HomeWork\BUG\BUG\obj\Debug\BUG.Properties.Resources.resources
+D:\Space_HomeWork\BUG\BUG\obj\Debug\BUG.csproj.GenerateResource.Cache
+D:\Space_HomeWork\BUG\BUG\obj\Debug\BUG.exe
+D:\Space_HomeWork\BUG\BUG\obj\Debug\BUG.pdb
